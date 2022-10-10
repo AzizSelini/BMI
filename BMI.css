@@ -1,0 +1,55 @@
+
+#kiki{font-family: fantasy;
+}
+#botom{transform: translateY(-100px); 
+   }
+#docteur{ font-family: fantasy;
+	position: relative;
+	top: -50px;
+	right: -1700px;}
+#taswira{width: 20%;}
+#x{border-radius:  15px;
+	width: 40%; 
+	border-style: solid ;
+	list-style:circle;
+	font-family: fantasy;
+	
+	margin-left:30px;
+	margin-top:10px;
+	border-color:green;
+	
+}
+
+#botomcalc{margin-top:10px;}
+z{
+	padding: 25px;
+	background-color: white;
+	color: black;
+	font-size: 25px;
+  }
+  #Quote{font-family: fantasy;}
+  
+  .dark-mode {
+	background-color: black;
+	color: white;
+  }
+  
+body{
+	padding:40px
+}
+
+.container{
+	max-width:600px;
+}
+form{
+	padding:40px;
+}
+
+
+#res{
+	margin:40px 0;
+}
+#title{font-family: fantasy;}
+#res #title{
+	text-align:center;
+}
